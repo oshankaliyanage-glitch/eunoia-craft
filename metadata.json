@@ -1,0 +1,7 @@
+{
+  "name": "Eunoia | Handcrafted Crafts in Colombo",
+  "description": "Thoughtfully made handmade crafts, artisanal ceramics, handwoven bags, and botanical homeware based in Colombo, Sri Lanka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
